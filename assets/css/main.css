@@ -3174,6 +3174,8 @@ input, select, textarea {
 			padding: 0.5rem 0 0 4.5rem;
 			position: relative;
 			width: 50%;
+			font-family: "Raleway", Helvetica, sans-serif;
+			font-weight: 300;
 		}
 
 			ul.feature-icons li:before {
