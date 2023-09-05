@@ -1,3 +1,3 @@
 Hello 👋🏼
 
-Visit my personal website.
+Visit my [website](https://katie-baker.github.io).
